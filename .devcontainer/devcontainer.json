@@ -1,6 +1,6 @@
 {
   "name": "Cloud Config App",
-  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+  "image": "mcr.microsoft.com/devcontainers/base:alpine",
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
       "installZsh": true,
